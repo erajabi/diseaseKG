@@ -1,0 +1,273 @@
+﻿Disease_Node,item_id,item_name,item_name_related,relation,erudite,inverseErudite
+Disease,154,Activated protein C resistance,Miscarriage,Risk factor,is a risk factor for,has risk factors
+Disease,92,Metabolic acidosis,Acidosis,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,95,Respiratory acidosis,Acidosis,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,325,Ethanol,Metabolic acidosis,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Adverse drug reaction,See also,see also,see also
+Disease,171,Acute intermittent porphyria,Ethanol,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Aminoglutethimide,Contraindication,may contraindicate,may be contraindicated with
+Disease,16,AA amyloidosis,Amyloidosis,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,315,AL amyloidosis,Amyloidosis,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,276,Holmes-Adie syndrome,Anisocoria,Cause-effect,may cause,may be caused by
+Disease,64,Acetazolamide,Aplastic anemia,Cause-effect,may cause,may be caused by
+Disease,55,Acanthamoeba,Aseptic meningitis,Cause-effect,may cause,may be caused by
+Disease,72,Esophageal achalasia,Gastric content aspiration,Cause-effect,may cause,may be caused by
+Disease,64,Acetazolamide,Aspirin,Interaction,interacts with,interacts with
+Disease,325,Ethanol,Atrial fibrillation,Cause-effect,may cause,may be caused by
+Disease,145,Actinomycosis,Atypical pneumonia,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,"Autonomic neuropathy, peripheral",Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Aseptic necrosis of bone,Cause-effect,may cause,may be caused by
+Disease,420,Allopurinol,Azathioprine,Interaction,interacts with,interacts with
+Disease,171,Acute intermittent porphyria,Barbiturates,Contraindication,may contraindicate,may be contraindicated with
+Disease,448,Alpha thalassemia trait,Basophilic stippling,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Bendrofluazide,Contraindication,may contraindicate,may be contraindicated with
+Disease,100,Acoustic neuroma,Intracranial space-occupying lesion,Cause-effect,may cause,may be caused by
+Disease,69,Acetylcysteine,Bronchospasm,Cause-effect,may cause,may be caused by
+Disease,256,Adenosine,Bronchospasm,Cause-effect,may cause,may be caused by
+Disease,472,Shaver disease,Bronchospasm,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Carbamazepine,Contraindication,may contraindicate,may be contraindicated with
+Disease,114,Growth hormone secreting pituitary adenoma,Cardiomyopathy,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Cardiomyopathy,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Carpal tunnel syndrome,Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Cataracts,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Cataracts,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,"Demyelination, central nervous system",Cause-effect,may cause,may be caused by
+Disease,292,Adrenoleucodystrophy,"Demyelination, central nervous system",Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Central pontine myelinosis,Risk factor,is a risk factor for,has risk factors
+Disease,17,Abetalipoproteinaemia,Cerebellar syndrome,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,Cerebellar syndrome,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Cerebellar syndrome,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Chloral hydrate,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Chloramphenicol,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Chlorpropamide,Contraindication,may contraindicate,may be contraindicated with
+Disease,80,Achondroplasia,Congenital anomaly of cartilage,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Chylomicron levels raised (plasma),Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Cirrhosis of liver,Cause-effect,may cause,may be caused by
+Disease,434,Alpha-1-antitrypsin deficiency,Cirrhosis of liver,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Cirrhosis of liver,Cause-effect,may cause,may be caused by
+Disease,72,Esophageal achalasia,Digital clubbing,Cause-effect,may cause,may be caused by
+Disease,442,Alpha heavy chain disease,Digital clubbing,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,10th cranial nerve disorder,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Optic nerve disorder,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,3rd cranial nerve disorder,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,5th cranial nerve disorder,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,7th cranial nerve disorder,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,Sensorineural hearing loss,Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Sensorineural hearing loss,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Sensorineural hearing loss,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Colorectal cancer,Risk factor,is a risk factor for,has risk factors
+Disease,83,Achromatopsia,Colour vision impairment,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Combined oral contraceptive pill,Contraindication,may contraindicate,may be contraindicated with
+Disease,243,Adenoiditis,Conductive hearing loss,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Dilated cardiomyopathy,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Dilated cardiomyopathy,Cause-effect,may cause,may be caused by
+Disease,96,Rosacea,Conjunctivitis,Cause-effect,may cause,may be caused by
+Disease,266,Adenovirus,Conjunctivitis,Cause-effect,may cause,may be caused by
+Disease,279,Adrenal cortex tumours,Conn syndrome,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Constipation,Cause-effect,may cause,may be caused by
+Disease,486,Aluminium hydroxide,Constipation,Cause-effect,may cause,may be caused by
+Disease,493,Amantadine,Constipation,Cause-effect,may cause,may be caused by
+Disease,100,Acoustic neuroma,CSF protein levels raised,Cause-effect,may cause,may be caused by
+Disease,292,Adrenoleucodystrophy,CSF protein levels raised,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,CSF protein levels raised,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Danazol,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Dapsone,Contraindication,may contraindicate,may be contraindicated with
+Disease,295,Adverse drug reaction,Debrisoquine metabolism deficiency,See also,see also,see also
+Disease,154,Activated protein C resistance,Deep vein thrombosis,Risk factor,is a risk factor for,has risk factors
+Disease,171,Acute intermittent porphyria,Dextromethorphan,Contraindication,may contraindicate,may be contraindicated with
+Disease,465,Alstr√∂m syndrome,Diabetes mellitus type 2,Risk factor,is a risk factor for,has risk factors
+Disease,17,Abetalipoproteinaemia,Diarrhoea,Cause-effect,may cause,may be caused by
+Disease,62,Acarbose,Diarrhoea,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Diarrhoea,Cause-effect,may cause,may be caused by
+Disease,266,Adenovirus,Diarrhoea,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Diarrhoea,Cause-effect,may cause,may be caused by
+Disease,40,Placental abruption,Disseminated intravascular coagulation,Cause-effect,may cause,may be caused by
+Disease,203,Acute myeloid leukemia,Disseminated intravascular coagulation,Cause-effect,may cause,may be caused by
+Disease,507,Amiloride,Diuretics,Drug family,belongs to the drug family of,is the drug family of
+Disease,250,Adenomyosis,Dysmenorrhoea,Cause-effect,may cause,may be caused by
+Disease,434,Alpha-1-antitrypsin deficiency,"Emphysema, pulmonary",Cause-effect,may cause,may be caused by
+Disease,250,Adenomyosis,Endometriosis,Association,is associated with,is associated with
+Disease,195,Acute lymphoblastic leukemia,Eosinophilia,Cause-effect,may cause,may be caused by
+Disease,420,Allopurinol,Eosinophilia,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Ergotamine,Contraindication,may contraindicate,may be contraindicated with
+Disease,64,Acetazolamide,Erythema multiforme,Cause-effect,may cause,may be caused by
+Disease,420,Allopurinol,Erythema multiforme,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Erythromycin estolate,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Ethinylestradiol,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Ethosuximide,Contraindication,may contraindicate,may be contraindicated with
+Disease,295,Adverse drug reaction,Excipients,See also,see also,see also
+Disease,29,Miscarriage,Female infertility,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Female infertility,Cause-effect,may cause,may be caused by
+Disease,273,Peritoneal adhesions,Female infertility,Cause-effect,may cause,may be caused by
+Disease,279,Adrenal cortex tumours,Female infertility,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Female infertility,Cause-effect,may cause,may be caused by
+Disease,218,Acute phase reaction,Hyperfibrinogenemia,Cause-effect,may cause,may be caused by
+Disease,29,Miscarriage,First trimester PV bleed,Cause-effect,may cause,may be caused by
+Disease,40,Placental abruption,Fetal distress,Cause-effect,may cause,may be caused by
+Disease,295,Adverse drug reaction,G6PDH deficiency,See also,see also,see also
+Disease,325,Ethanol,Gamma-glutamyl transferase levels raised (plasma or serum),Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Glomerulonephritis,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Glutethimide,Contraindication,may contraindicate,may be contraindicated with
+Disease,114,Growth hormone secreting pituitary adenoma,Goitre,Cause-effect,may cause,may be caused by
+Disease,512,Aminoglutethimide,Goitre,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Uric acid levels raised (plasma or serum),Cause-effect,may cause,may be caused by
+Disease,420,Allopurinol,Uric acid levels raised (plasma or serum),Cause-effect,may cause,may be caused by
+Disease,145,Actinomycosis,Gram positive bacilli / rods,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Griseofulvin,Contraindication,may contraindicate,may be contraindicated with
+Disease,114,Growth hormone secreting pituitary adenoma,Growth hormone,See also,see also,see also
+Disease,325,Ethanol,Haemochromatosis,Risk factor,is a risk factor for,has risk factors
+Disease,17,Abetalipoproteinaemia,Haemolytic anaemia,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Hashimoto thyroiditis,Association,is associated with,is associated with
+Disease,325,Ethanol,High density lipoprotein levels raised (plasma),Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hepatic failure,Cause-effect,may cause,may be caused by
+Disease,434,Alpha-1-antitrypsin deficiency,Hepatic failure,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Varicella-zoster virus,Association,is associated with,is associated with
+Disease,279,Adrenal cortex tumours,Cushing syndrome,Cause-effect,may cause,may be caused by
+Disease,288,Adrenocorticotrophic hormone,Cushing syndrome,Cause-effect,may cause,may be caused by
+Disease,394,Aldosterone,Hyperaldosteronism,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hypercalcaemia,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hypercalciuria,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Hypercholesterolaemia,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hyperglycaemia,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hyperhidrosis,Cause-effect,may cause,may be caused by
+Disease,87,Acidosis,Hyperkalaemia,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Hyperkalaemia,Cause-effect,may cause,may be caused by
+Disease,507,Amiloride,Hyperkalaemia,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hyperlipidaemia,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Hypermagnesaemia,Cause-effect,may cause,may be caused by
+Disease,279,Adrenal cortex tumours,Hyperoestrogenic states,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,"Hypertension, systemic",Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,"Hypertension, systemic",Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,"Hypertension, systemic",Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Hypertriglyceridaemia,Cause-effect,may cause,may be caused by
+Disease,4,3-beta hydroxylase deficiency,Adrenal cortex insufficiency,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Adrenal cortex insufficiency,Cause-effect,may cause,may be caused by
+Disease,292,Adrenoleucodystrophy,Adrenal cortex insufficiency,Cause-effect,may cause,may be caused by
+Disease,512,Aminoglutethimide,Adrenal cortex insufficiency,Cause-effect,may cause,may be caused by
+Disease,398,Alendronate,Hypocalcaemia,Cause-effect,may cause,may be caused by
+Disease,260,Adenosine deaminase deficiency,Hypogammaglobulinaemia,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Hypoglycaemia,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hypoglycaemia,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hypogonadic hypogonadism,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Hypogonadic hypogonadism,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Hypogonadotrophic hypogonadism,Cause-effect,may cause,may be caused by
+Disease,203,Acute myeloid leukemia,Hypokalaemia,Cause-effect,may cause,may be caused by
+Disease,402,"Alkalosis, metabolic",Hypokalaemia,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hypomagnesemia,Cause-effect,may cause,may be caused by
+Disease,64,Acetazolamide,Hypophosphataemia,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hypophosphataemia,Cause-effect,may cause,may be caused by
+Disease,402,"Alkalosis, metabolic",Hypophosphataemia,Cause-effect,may cause,may be caused by
+Disease,406,Respiratory alkalosis,Hypophosphataemia,Cause-effect,may cause,may be caused by
+Disease,486,Aluminium hydroxide,Hypophosphataemia,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Hypotension,Cause-effect,may cause,may be caused by
+Disease,512,Aminoglutethimide,Hypotension,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Hypothermia,Cause-effect,may cause,may be caused by
+Disease,465,Alstr√∂m syndrome,Hypothyroidism,Cause-effect,may cause,may be caused by
+Disease,512,Aminoglutethimide,Hypothyroidism,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Paralytic Ileus,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Ineffective erythropoiesis,Cause-effect,may cause,may be caused by
+Disease,250,Adenomyosis,Intermenstrual PV bleed,Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Interstitial nephritis,Cause-effect,may cause,may be caused by
+Disease,145,Actinomycosis,Intracranial abscess / granuloma,Cause-effect,may cause,may be caused by
+Disease,40,Placental abruption,Intrauterine death,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Intrauterine death,Cause-effect,may cause,may be caused by
+Disease,29,Miscarriage,Intrauterine death,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,325,Ethanol,Intrauterine growth retardation,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Isoniazid,Contraindication,may contraindicate,may be contraindicated with
+Disease,55,Acanthamoeba,Keratitis,Cause-effect,may cause,may be caused by
+Disease,266,Adenovirus,Keratitis,Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Keratoconus,Cause-effect,may cause,may be caused by
+Disease,17,Abetalipoproteinaemia,Low density lipoprotein levels low (serum or plasma),Cause-effect,may cause,may be caused by
+Disease,218,Acute phase reaction,Low density lipoprotein levels low (serum or plasma),Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Lens pathology,Cause-effect,may cause,may be caused by
+Disease,448,Alpha thalassemia trait,Leptocytosis,Cause-effect,may cause,may be caused by
+Disease,203,Acute myeloid leukemia,Leucoerythroblastic anaemia,Cause-effect,may cause,may be caused by
+Disease,493,Amantadine,Livedo reticularis,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,"Liver cancer, primary",Risk factor,is a risk factor for,has risk factors
+Disease,309,Aflatoxins,"Liver cancer, primary",Risk factor,is a risk factor for,has risk factors
+Disease,325,Ethanol,"Liver cancer, primary",Risk factor,is a risk factor for,has risk factors
+Disease,434,Alpha-1-antitrypsin deficiency,"Liver cancer, primary",Risk factor,is a risk factor for,has risk factors
+Disease,145,Actinomycosis,Lung abscess,Cause-effect,may cause,may be caused by
+Disease,260,Adenosine deaminase deficiency,Lymphocytopenia,Cause-effect,may cause,may be caused by
+Disease,195,Acute lymphoblastic leukemia,Lymphocytosis,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Macrocytosis (erythrocyte),Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Macroglossia,Cause-effect,may cause,may be caused by
+Disease,266,Adenovirus,Maculopapular rash,Cause-effect,may cause,may be caused by
+Disease,17,Abetalipoproteinaemia,Malabsorption syndrome,Cause-effect,may cause,may be caused by
+Disease,442,Alpha heavy chain disease,Malabsorption syndrome,Cause-effect,may cause,may be caused by
+Disease,11,5-alpha reductase deficiency,Male infertility,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Male infertility,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Measles,Association,is associated with,is associated with
+Disease,171,Acute intermittent porphyria,Mercaptopurine,Contraindication,may contraindicate,may be contraindicated with
+Disease,266,Adenovirus,Mesenteric adenitis,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Methotrexate,Interaction,interacts with,interacts with
+Disease,171,Acute intermittent porphyria,Methyldopa,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Metronidazole,Contraindication,may contraindicate,may be contraindicated with
+Disease,448,Alpha thalassemia trait,Microcytosis (erythrocyte),Cause-effect,may cause,may be caused by
+Disease,475,Aluminium (dialysis related) toxicity,Microcytosis (erythrocyte),Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,"Motor neuropathy, peripheral",Cause-effect,may cause,may be caused by
+Disease,145,Actinomycosis,Mycetoma,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Myopathy,Cause-effect,may cause,may be caused by
+Disease,430,Alopecia areata,Nail pitting,Cause-effect,may cause,may be caused by
+Disease,72,Esophageal achalasia,Nausea and vomiting,Cause-effect,may cause,may be caused by
+Disease,266,Adenovirus,Nausea and vomiting,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Nausea and vomiting,Cause-effect,may cause,may be caused by
+Disease,493,Amantadine,Nausea and vomiting,Cause-effect,may cause,may be caused by
+Disease,434,Alpha-1-antitrypsin deficiency,Neonatal jaundice,Cause-effect,may cause,may be caused by
+Disease,454,Alport syndrome,Nephrocalcinosis,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Neutrophilia,Cause-effect,may cause,may be caused by
+Disease,203,Acute myeloid leukemia,Neutrophilia,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Obesity,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Obesity,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Obstructive sleep apnoea,Risk factor,is a risk factor for,has risk factors
+Disease,218,Acute phase reaction,Oedema,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Oesophageal cancer,Risk factor,is a risk factor for,has risk factors
+Disease,72,Esophageal achalasia,Oesophagitis,Cause-effect,may cause,may be caused by
+Disease,398,Alendronate,Oesophagitis,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Oligoclonal bands (CSF),Cause-effect,may cause,may be caused by
+Disease,292,Adrenoleucodystrophy,Oligoclonal bands (CSF),Cause-effect,may cause,may be caused by
+Disease,430,Alopecia areata,Onycholysis,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Optic neuritis,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Oropharyngeal cancer,Risk factor,is a risk factor for,has risk factors
+Disease,145,Actinomycosis,Osteomyelitis,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Osteoporosis,Cause-effect,may cause,may be caused by
+Disease,243,Adenoiditis,Suppurative otitis media,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,"Pancreatitis, acute",Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,"Pancreatitis, chronic",Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Papilloedema,Cause-effect,may cause,may be caused by
+Disease,442,Alpha heavy chain disease,Paraproteinaemia,Cause-effect,may cause,may be caused by
+Disease,475,Aluminium (dialysis related) toxicity,Pathological fracture,Cause-effect,may cause,may be caused by
+Disease,145,Actinomycosis,Pelvic inflammatory disease,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Gastroduodenal ulcers,Cause-effect,may cause,may be caused by
+Disease,398,Alendronate,Gastroduodenal ulcers,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Pericarditis,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Peripheral demyelination,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Peripheral demyelination,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Peripheral neuropathy,Cause-effect,may cause,may be caused by
+Disease,158,Acute disseminated encephalomyelitis,Peripheral neuropathy,Cause-effect,may cause,may be caused by
+Disease,222,Autoimmune adrenalitis,Pernicious anaemia,Association,is associated with,is associated with
+Disease,171,Acute intermittent porphyria,Phenelzine,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Phenobarbital,Contraindication,may contraindicate,may be contraindicated with
+Disease,325,Ethanol,Phenobarbital,Interaction,interacts with,interacts with
+Disease,171,Acute intermittent porphyria,Phenylbutazone,Contraindication,may contraindicate,may be contraindicated with
+Disease,171,Acute intermittent porphyria,Phenytoin,Contraindication,may contraindicate,may be contraindicated with
+Disease,114,Growth hormone secreting pituitary adenoma,Pituitary tumour,Cause-effect child-parent (subtype),is a subtype of,has subtype(s)
+Disease,325,Ethanol,Pneumonia,Risk factor,is a risk factor for,has risk factors
+Disease,171,Acute intermittent porphyria,Postural hypotension,Cause-effect,may cause,may be caused by
+Disease,279,Adrenal cortex tumours,Precocious puberty,Cause-effect,may cause,may be caused by
+Disease,40,Placental abruption,Premature labour and/or delivery,Cause-effect,may cause,may be caused by
+Disease,29,Miscarriage,Premature labour and/or delivery,See also,see also,see also
+Disease,171,Acute intermittent porphyria,Primidone,Contraindication,may contraindicate,may be contraindicated with
+Disease,195,Acute lymphoblastic leukemia,Red cell production reduced,Cause-effect,may cause,may be caused by
+Disease,220,Acyclovir,Red cell production reduced,Cause-effect,may cause,may be caused by
+Disease,475,Aluminium (dialysis related) toxicity,Red cell production reduced,Cause-effect,may cause,may be caused by
+Disease,114,Growth hormone secreting pituitary adenoma,Proximal muscle weakness,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Proximal muscle weakness,Cause-effect,may cause,may be caused by
+Disease,325,Ethanol,Proximal muscle weakness,Cause-effect,may cause,may be caused by
+Disease,295,Adverse drug reaction,Pseudocholinesterase deficiency,See also,see also,see also
+Disease,114,Growth hormone secreting pituitary adenoma,Pyrophosphate arthropathy,Cause-effect,may cause,may be caused by
+Disease,409,Alkaptonuria,Pyrophosphate arthropathy,Cause-effect,may cause,may be caused by
+Disease,472,Shaver disease,Pulmonary fibrosis,Cause-effect,may cause,may be caused by
+Disease,203,Acute myeloid leukemia,Pyoderma gangrenosum,Cause-effect,may cause,may be caused by
+Disease,171,Acute intermittent porphyria,Pyrazinamide,Contraindication,may contraindicate,may be contraindicated with
+Disease,145,Actinomycosis,Pyrexia of unknown origin,Cause-effect,may cause,may be caused by
